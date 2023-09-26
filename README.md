@@ -19,7 +19,8 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
 
 ### 1. **User Acquisition / Conversion Rate:**
 
-![graph](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/c5203558-b302-4855-b4da-e47dbb8a4fcb)
+![download](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/acce66ea-edf1-43a4-b32b-6a1003d146d9)
+
 
    - **Metric:**
      - **Ratio of Registered to Casual Users**
