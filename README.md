@@ -21,7 +21,7 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
 - bike number: unique identifier for the bike used for the ride
 - rider-type: indicates whether user was a "registered member" (Annual Member or 30-Day Member) or a "casual rider" (Single Trip or 24-Hour/3-Day/5-Day Pass)
 
-### As a PM , I would want to track these three metrics
+# As a PM , I would want to track these three metrics
 
 ### 1. **User Acquisition / Conversion Rate:**
 
