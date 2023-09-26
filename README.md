@@ -69,3 +69,8 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
 ![SINK](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/ea8ec251-0ece-4d77-8a16-299ea62bba15)
 
 
+ # Factors Underlying as Source or Sink:
+
+- Demographics and Location: Stations in residential areas may act more as sources, especially in the morning as residents commute to work, whereas stations in commercial areas or workplace districts might act more as sinks.
+- Time of the Day: Depending on the time of the day, a station could act either as a source or a sink. For instance, a station near a workplace may act as a source in the evening and a sink in the morning.
+- Population Density: Areas with high population density might see more stations acting as sources, while less densely populated areas might have more sinks.
