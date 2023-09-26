@@ -5,7 +5,7 @@ Feel free to check the python notebook for detailed analysis . Here , I talk abo
 - 3 metrics to be tracked
 -  Source and Sink problem ( issue where common to bike sharing program where imbalance in the frequency with which bikes are picked up versus dropped )
 
-- 
+
 ![bicle](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/a2bedf55-ba28-49b6-91da-6433a4741566)
 
 - First things first  , what data do we have?
@@ -59,3 +59,7 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
      - Operating cost data (including maintenance, redistribution, and overhead costs).
    - **Additional Consideration:**
      - Analyzing the Average Revenue per User (ARPU) and the Lifetime Value (LTV) of a customer can inform decisions regarding marketing spend, customer acquisition strategies, and customer retention efforts.
+
+
+
+# Source and Sink Problem
