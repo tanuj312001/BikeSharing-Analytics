@@ -7,6 +7,9 @@
 
 This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each row in the bikeshare table represents a single ride within a 3-month period in 2012. Some of the columns are-
 
+![sq](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/f2ba0314-e80d-40fc-aae8-a0c126500317)
+
+
 - duration seconds: duration of the ride (in seconds)
 - start time, end time: datetimes representing the beginning and end of the ride
 - start station, end station: name of the start and end stations for the ride
