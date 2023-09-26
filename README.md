@@ -18,6 +18,9 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
 ### As a PM , I would want to track these three metrics
 
 ### 1. **User Acquisition / Conversion Rate:**
+
+![graph](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/c5203558-b302-4855-b4da-e47dbb8a4fcb)
+
    - **Metric:**
      - **Ratio of Registered to Casual Users**
    - **Why it’s Important:**
