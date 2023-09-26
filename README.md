@@ -66,5 +66,6 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
 - Let's look at the top source and top sinks in Washington DC
 
   ![source and sink](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/9163364f-10cd-44e4-9d93-35ce03013821)
+![SINK](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/ea8ec251-0ece-4d77-8a16-299ea62bba15)
 
 
