@@ -29,3 +29,26 @@ This dataset (`data.csv`) comes from a Washington DC bike-sharing program. Each 
      - User type (Registered/Casual) from the ride history table.
    - **Additional Consideration:**
      - Monitoring the conversion rate of casual users to registered users over time can provide insights into the effectiveness of strategies aimed at encouraging user commitment.
+    
+
+### 2. **Operational Efficiency and User Satisfaction:**
+   - **Metric:**
+     - **Bike Availability and Utilization Rate**
+   - **Why it’s Important:**
+     - Ensuring that bikes are adequately available and well-utilized is crucial for user satisfaction and operational efficiency. Analyzing availability and utilization can highlight areas for redistributing bikes and can inform maintenance scheduling to minimize downtime.
+   - **Data Needed:**
+     - Real-time bike availability data from each station.
+     - Ride history data for calculating utilization rate.
+   - **Additional Consideration:**
+     - Gathering and analyzing customer feedback and satisfaction scores can provide qualitative insights into user experiences, unmet needs, and potential areas for service improvement.
+    
+     ### 3. **Financial Health and Sustainability:**
+   - **Metric:**
+     - **Monthly Revenue and Operating Cost**
+   - **Why it’s Important:**
+     - Assessing the revenue against the operating costs is foundational for understanding the financial sustainability of the program. It can reveal whether the program is operating at a profit or a loss and can inform adjustments to pricing or cost structures.
+   - **Data Needed:**
+     - Revenue data (potentially from user subscriptions and casual ride fees).
+     - Operating cost data (including maintenance, redistribution, and overhead costs).
+   - **Additional Consideration:**
+     - Analyzing the Average Revenue per User (ARPU) and the Lifetime Value (LTV) of a customer can inform decisions regarding marketing spend, customer acquisition strategies, and customer retention efforts.
