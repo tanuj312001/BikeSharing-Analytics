@@ -1,6 +1,11 @@
 # BikeSharing-Analytics
 
-- Not only will I talk about the 3 metrics I would track , but I also tackle the problem of Sources and Sinks in Bicycle sharing ( issue common to bike sharing program stations is an imbalance in the frequency with which bikes are picked up versus dropped ) 
+Feel free to check the python notebook for detailed analysis . Here , I talk about 2 major things
+
+- 3 metrics to be tracked
+-  Source and Sink problem ( issue where common to bike sharing program where imbalance in the frequency with which bikes are picked up versus dropped )
+
+- 
 ![bicle](https://github.com/tanuj312001/BikeSharing-Analytics/assets/60888384/a2bedf55-ba28-49b6-91da-6433a4741566)
 
 - First things first  , what data do we have?
